@@ -1,0 +1,27 @@
+html{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+}
+body{
+	box-sizing: border-box;
+	margin: 0 auto;
+	max-width: 960px;
+	padding: 0.5em;
+	width: 100%;
+}
+.header h2{
+	background-color: #eee;
+	box-sizing: border-box;
+	font-weight: lighter;
+	padding: 0.5em;
+}
+.news{}
+	.news-header{}
+		#fecha{
+			color: maroon;
+			font-weight: bold;
+		}
+	.news-text p{
+		line-height: 1.5;
+		text-align: justify;
+	}
